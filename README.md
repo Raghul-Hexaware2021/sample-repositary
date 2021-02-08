@@ -1,1 +1,3 @@
-# sample-repositary
+hello mavericks!!welcome to foundation training...
+
+
